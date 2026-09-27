@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use SCANS, please cite the accompanying manuscript."
+title: "open-SCANS: Support-Constrained Adaptive Negative Sampling for Hyperedge Prediction"
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Jinming"
+    email: "yangjinming@std.uestc.edu.cn"
+    affiliation: "CompleX Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+  - family-names: "Deng"
+    given-names: "Zhenyu"
+    email: "zhenyudeng@std.uestc.edu.cn"
+    affiliation: "CompleX Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+  - family-names: "Cai"
+    given-names: "Shimin"
+    email: "shimincai@uestc.edu.cn"
+    affiliation: "CompleX Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+  - family-names: "Zhou"
+    given-names: "Tao"
+    email: "zhutou@ustc.edu"
+    affiliation: "CompleX Lab, School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+repository-code: "https://github.com/Jimmyverysix/open-SCANS"
+url: "https://github.com/Jimmyverysix/open-SCANS"
+license: MIT
+preferred-citation:
+  type: article
+  title: "SCANS: Support-Constrained Adaptive Negative Sampling for Hyperedge Prediction"
+  authors:
+    - family-names: "Yang"
+      given-names: "Jinming"
+    - family-names: "Deng"
+      given-names: "Zhenyu"
+    - family-names: "Cai"
+      given-names: "Shimin"
+    - family-names: "Zhou"
+      given-names: "Tao"
+  year: 2026

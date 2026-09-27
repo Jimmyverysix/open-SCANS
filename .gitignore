@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Datasets and generated experiment artifacts are intentionally not versioned.
+/data/
+/remote_logs/
+/results/
+/checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Editor and operating-system metadata.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
